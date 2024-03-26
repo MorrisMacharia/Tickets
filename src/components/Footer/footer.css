@@ -22,6 +22,12 @@ line-height: 27.989px; /* 69.444% */
 letter-spacing: -3.224px;
 margin-bottom: 15px;
 }
+.ticket:hover{
+  opacity: 0.3;
+  cursor: grab;
+  color: rgb(8, 2, 90);
+  transform: scale(1.1);
+}
 .socials{
     display: flex;
     gap: 15px;
